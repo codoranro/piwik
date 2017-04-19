@@ -23,7 +23,12 @@
 				<pageTitle>Checkout/Purchasing...</pageTitle>
 				<pageIdAction>13</pageIdAction>
 				
+				
 				<pageId>9</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<generationTimeMilliseconds>134</generationTimeMilliseconds>
 				<generationTime>0.13s</generationTime>
 				<interactionPosition>1</interactionPosition>
@@ -133,7 +138,12 @@
 				<pageTitle>incredible title!</pageTitle>
 				<pageIdAction>2</pageIdAction>
 				
+				
 				<pageId>1</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
 				<generationTimeMilliseconds>234</generationTimeMilliseconds>
@@ -148,7 +158,12 @@
 				<pageTitle>Second page view - should be registered as URL</pageTitle>
 				<pageIdAction>4</pageIdAction>
 				
+				
 				<pageId>2</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
 				<generationTimeMilliseconds>224</generationTimeMilliseconds>
@@ -163,7 +178,12 @@
 				<pageTitle />
 				<pageIdAction>5</pageIdAction>
 				
+				
 				<pageId>3</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<timeSpent>360</timeSpent>
 				<timeSpentPretty>6 min 0s</timeSpentPretty>
 				<interactionPosition />
@@ -176,7 +196,12 @@
 				<pageTitle />
 				<pageIdAction>6</pageIdAction>
 				
+				
 				<pageId>4</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<timeSpent>72</timeSpent>
 				<timeSpentPretty>1 min 12s</timeSpentPretty>
 				<interactionPosition />
@@ -189,7 +214,12 @@
 				<pageTitle />
 				<pageIdAction>7</pageIdAction>
 				
+				
 				<pageId>5</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<timeSpent>108</timeSpent>
 				<timeSpentPretty>1 min 48s</timeSpentPretty>
 				<interactionPosition />
@@ -202,7 +232,12 @@
 				<pageTitle />
 				<pageIdAction>8</pageIdAction>
 				
+				
 				<pageId>6</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<timeSpent>72</timeSpent>
 				<timeSpentPretty>1 min 12s</timeSpentPretty>
 				<interactionPosition />
@@ -225,7 +260,12 @@
 				<url />
 				<pageIdAction />
 				
+				
 				<pageId>7</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<timeSpent>108</timeSpent>
 				<timeSpentPretty>1 min 48s</timeSpentPretty>
 				<siteSearchKeyword>Banks Own The World</siteSearchKeyword>
@@ -241,7 +281,12 @@
 				<pageTitle>Looking at homepage after site search...</pageTitle>
 				<pageIdAction>11</pageIdAction>
 				
+				
 				<pageId>8</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<generationTimeMilliseconds>24</generationTimeMilliseconds>
 				<generationTime>0.02s</generationTime>
 				<interactionPosition>4</interactionPosition>

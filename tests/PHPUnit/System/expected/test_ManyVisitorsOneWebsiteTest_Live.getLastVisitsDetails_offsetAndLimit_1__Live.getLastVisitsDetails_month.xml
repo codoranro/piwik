@@ -12,7 +12,12 @@
 				<pageTitle>Space Quest XII</pageTitle>
 				<pageIdAction>4</pageIdAction>
 				
+				
 				<pageId>46</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<timeSpent>360</timeSpent>
 				<timeSpentPretty>6 min 0s</timeSpentPretty>
 				<interactionPosition>1</interactionPosition>
@@ -35,7 +40,12 @@
 				<url />
 				<pageIdAction />
 				
+				
 				<pageId>47</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
 				<siteSearchKeyword>Bring on the party</siteSearchKeyword>
@@ -66,7 +76,12 @@
 				<pageTitle />
 				<pageIdAction>47</pageIdAction>
 				
+				
 				<pageId>48</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
 				<interactionPosition />
@@ -79,7 +94,12 @@
 				<pageTitle />
 				<pageIdAction>48</pageIdAction>
 				
+				
 				<pageId>49</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
 				<interactionPosition />
@@ -91,7 +111,12 @@
 				<url>http://piwik.net/space/quest/iv</url>
 				<pageIdAction>8</pageIdAction>
 				
+				
 				<pageId>50</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<eventCategory>Cat8</eventCategory>
 				<eventAction>Action8</eventAction>
 				<eventName>Name8</eventName>
@@ -222,7 +247,12 @@
 				<pageTitle>It's &lt;script&gt; pitch black...</pageTitle>
 				<pageIdAction>2</pageIdAction>
 				
+				
 				<pageId>45</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<interactionPosition>1</interactionPosition>
 				<icon />
 				
@@ -348,7 +378,12 @@
 				<pageTitle>Space Quest XII</pageTitle>
 				<pageIdAction>4</pageIdAction>
 				
+				
 				<pageId>41</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
 				<interactionPosition>1</interactionPosition>
@@ -383,7 +418,12 @@
 				<pageTitle />
 				<pageIdAction>42</pageIdAction>
 				
+				
 				<pageId>42</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
 				<interactionPosition />
@@ -396,7 +436,12 @@
 				<pageTitle />
 				<pageIdAction>43</pageIdAction>
 				
+				
 				<pageId>43</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
 				<interactionPosition />
@@ -408,7 +453,12 @@
 				<url>http://piwik.net/space/quest/iv</url>
 				<pageIdAction>8</pageIdAction>
 				
+				
 				<pageId>44</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<eventCategory>Cat7</eventCategory>
 				<eventAction>Action7</eventAction>
 				<eventName>Name7</eventName>

@@ -12,7 +12,12 @@
 				<pageTitle>View product left in cart</pageTitle>
 				<pageIdAction>2</pageIdAction>
 				
+				
 				<pageId>11</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
 				<interactionPosition>1</interactionPosition>
@@ -43,7 +48,12 @@
 				<pageTitle>View product left in cart</pageTitle>
 				<pageIdAction>2</pageIdAction>
 				
+				
 				<pageId>12</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
 				<interactionPosition>2</interactionPosition>
@@ -74,7 +84,12 @@
 				<pageTitle>View product left in cart</pageTitle>
 				<pageIdAction>2</pageIdAction>
 				
+				
 				<pageId>13</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<timeSpent>361</timeSpent>
 				<timeSpentPretty>6 min 1s</timeSpentPretty>
 				<interactionPosition>3</interactionPosition>
@@ -241,7 +256,12 @@
 				<pageTitle>Looking at Electronics &amp; Cameras page with a page level custom variable</pageTitle>
 				<pageIdAction>2</pageIdAction>
 				
+				
 				<pageId>5</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<timeSpent>360</timeSpent>
 				<timeSpentPretty>6 min 0s</timeSpentPretty>
 				<interactionPosition>1</interactionPosition>
@@ -260,7 +280,12 @@
 				<pageTitle>Looking at Electronics &amp; Cameras page again</pageTitle>
 				<pageIdAction>2</pageIdAction>
 				
+				
 				<pageId>6</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<timeSpent>360</timeSpent>
 				<timeSpentPretty>6 min 0s</timeSpentPretty>
 				<interactionPosition>2</interactionPosition>
@@ -279,7 +304,12 @@
 				<pageTitle>Looking at product page</pageTitle>
 				<pageIdAction>2</pageIdAction>
 				
+				
 				<pageId>7</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<timeSpent>720</timeSpent>
 				<timeSpentPretty>12 min 0s</timeSpentPretty>
 				<interactionPosition>3</interactionPosition>
@@ -368,7 +398,12 @@
 				<pageTitle>View product left in cart</pageTitle>
 				<pageIdAction>2</pageIdAction>
 				
+				
 				<pageId>8</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
 				<interactionPosition>4</interactionPosition>
@@ -399,7 +434,12 @@
 				<pageTitle>View product left in cart</pageTitle>
 				<pageIdAction>2</pageIdAction>
 				
+				
 				<pageId>9</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
 				<interactionPosition>5</interactionPosition>
@@ -430,7 +470,12 @@
 				<pageTitle>View product left in cart</pageTitle>
 				<pageIdAction>2</pageIdAction>
 				
+				
 				<pageId>10</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<timeSpent>361</timeSpent>
 				<timeSpentPretty>6 min 1s</timeSpentPretty>
 				<interactionPosition>6</interactionPosition>
@@ -608,7 +653,12 @@
 				<pageTitle>incredible title!</pageTitle>
 				<pageIdAction>2</pageIdAction>
 				
+				
 				<pageId>1</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<timeSpent>360</timeSpent>
 				<timeSpentPretty>6 min 0s</timeSpentPretty>
 				<interactionPosition>1</interactionPosition>
@@ -639,7 +689,12 @@
 				<pageTitle>Another Product page</pageTitle>
 				<pageIdAction>2</pageIdAction>
 				
+				
 				<pageId>2</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<timeSpent>360</timeSpent>
 				<timeSpentPretty>6 min 0s</timeSpentPretty>
 				<interactionPosition>2</interactionPosition>
@@ -670,7 +725,12 @@
 				<pageTitle>Another Product page with no category</pageTitle>
 				<pageIdAction>2</pageIdAction>
 				
+				
 				<pageId>3</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<timeSpent>0</timeSpent>
 				<timeSpentPretty>0s</timeSpentPretty>
 				<interactionPosition>3</interactionPosition>
@@ -701,7 +761,12 @@
 				<pageTitle>Another Product page with multiple categories</pageTitle>
 				<pageIdAction>2</pageIdAction>
 				
+				
 				<pageId>4</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<interactionPosition>4</interactionPosition>
 				<icon />
 				

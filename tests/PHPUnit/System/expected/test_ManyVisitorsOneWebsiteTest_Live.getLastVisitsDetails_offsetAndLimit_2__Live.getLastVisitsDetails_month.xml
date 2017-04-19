@@ -23,7 +23,12 @@
 				<pageTitle>It's &lt;script&gt; pitch black...</pageTitle>
 				<pageIdAction>2</pageIdAction>
 				
+				
 				<pageId>40</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<interactionPosition>1</interactionPosition>
 				<icon />
 				
@@ -149,7 +154,12 @@
 				<pageTitle>Space Quest XII</pageTitle>
 				<pageIdAction>4</pageIdAction>
 				
+				
 				<pageId>35</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<timeSpent>360</timeSpent>
 				<timeSpentPretty>6 min 0s</timeSpentPretty>
 				<interactionPosition>1</interactionPosition>
@@ -172,7 +182,12 @@
 				<url />
 				<pageIdAction />
 				
+				
 				<pageId>36</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
 				<siteSearchKeyword>Bring on the party</siteSearchKeyword>
@@ -203,7 +218,12 @@
 				<pageTitle />
 				<pageIdAction>37</pageIdAction>
 				
+				
 				<pageId>37</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
 				<interactionPosition />
@@ -216,7 +236,12 @@
 				<pageTitle />
 				<pageIdAction>38</pageIdAction>
 				
+				
 				<pageId>38</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
 				<interactionPosition />
@@ -228,7 +253,12 @@
 				<url>http://piwik.net/space/quest/iv</url>
 				<pageIdAction>8</pageIdAction>
 				
+				
 				<pageId>39</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<eventCategory>Cat6</eventCategory>
 				<eventAction>Action6</eventAction>
 				<eventName>Name6</eventName>
@@ -359,7 +389,12 @@
 				<pageTitle>It's &lt;script&gt; pitch black...</pageTitle>
 				<pageIdAction>2</pageIdAction>
 				
+				
 				<pageId>34</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<interactionPosition>1</interactionPosition>
 				<icon />
 				

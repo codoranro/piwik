@@ -12,7 +12,12 @@
 				<pageTitle>incredible title!</pageTitle>
 				<pageIdAction>2</pageIdAction>
 				
+				
 				<pageId>1</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<interactionPosition>1</interactionPosition>
 				<icon />
 				

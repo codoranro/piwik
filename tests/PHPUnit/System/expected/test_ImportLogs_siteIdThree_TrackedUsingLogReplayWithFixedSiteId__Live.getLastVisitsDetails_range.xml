@@ -12,7 +12,12 @@
 				<pageTitle>Liberate Web Analytics - Analytics - Piwik</pageTitle>
 				<pageIdAction>35</pageIdAction>
 				
+				
 				<pageId>69</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<generationTimeMilliseconds>292</generationTimeMilliseconds>
 				<generationTime>0.29s</generationTime>
 				<interactionPosition>1</interactionPosition>
@@ -136,7 +141,12 @@
 				<pageTitle>Changelog Archive - Analytics - Piwik</pageTitle>
 				<pageIdAction>44</pageIdAction>
 				
+				
 				<pageId>60</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<timeSpent>79</timeSpent>
 				<timeSpentPretty>1 min 19s</timeSpentPretty>
 				<interactionPosition>1</interactionPosition>
@@ -155,7 +165,12 @@
 				<pageTitle>Contact the Piwik team - Analytics - Piwik</pageTitle>
 				<pageIdAction>55</pageIdAction>
 				
+				
 				<pageId>68</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<interactionPosition>2</interactionPosition>
 				<icon />
 				
@@ -264,7 +279,12 @@
 				<pageTitle>demo.piwik.org/Piwik Forums - Piwik › Web Analytics Reports</pageTitle>
 				<pageIdAction>53</pageIdAction>
 				
+				
 				<pageId>67</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<generationTimeMilliseconds>413</generationTimeMilliseconds>
 				<generationTime>0.41s</generationTime>
 				<interactionPosition>1</interactionPosition>
@@ -400,7 +420,12 @@
 				<pageTitle>Liberate Web Analytics - Analytics - Piwik</pageTitle>
 				<pageIdAction>35</pageIdAction>
 				
+				
 				<pageId>64</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<timeSpent>32</timeSpent>
 				<timeSpentPretty>32s</timeSpentPretty>
 				<interactionPosition>1</interactionPosition>
@@ -419,7 +444,12 @@
 				<pageTitle>What is Piwik? - Analytics - Piwik</pageTitle>
 				<pageIdAction>51</pageIdAction>
 				
+				
 				<pageId>66</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<interactionPosition>2</interactionPosition>
 				<icon />
 				
@@ -545,7 +575,12 @@
 				<pageTitle />
 				<pageIdAction>49</pageIdAction>
 				
+				
 				<pageId>65</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<interactionPosition />
 				<icon>plugins/Morpheus/images/link.png</icon>
 				
@@ -671,7 +706,12 @@
 				<pageTitle>Integrate Piwik into your Rails Application - Analytics - Piwik</pageTitle>
 				<pageIdAction>48</pageIdAction>
 				
+				
 				<pageId>63</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<generationTimeMilliseconds>391</generationTimeMilliseconds>
 				<generationTime>0.39s</generationTime>
 				<interactionPosition>1</interactionPosition>
@@ -807,7 +847,12 @@
 				<pageTitle>Log Analytics - Analytics - Piwik</pageTitle>
 				<pageIdAction>42</pageIdAction>
 				
+				
 				<pageId>62</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<interactionPosition>1</interactionPosition>
 				<icon />
 				
@@ -929,7 +974,12 @@
 				<pageTitle>Piwik 2.1 — Massive Performance and Reliability Improvements - Analytics - Piwik</pageTitle>
 				<pageIdAction>46</pageIdAction>
 				
+				
 				<pageId>61</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<generationTimeMilliseconds>119</generationTimeMilliseconds>
 				<generationTime>0.12s</generationTime>
 				<interactionPosition>1</interactionPosition>
@@ -1045,7 +1095,12 @@
 				<pageTitle>Log Analytics - Analytics - Piwik</pageTitle>
 				<pageIdAction>42</pageIdAction>
 				
+				
 				<pageId>59</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<generationTimeMilliseconds>145</generationTimeMilliseconds>
 				<generationTime>0.15s</generationTime>
 				<interactionPosition>1</interactionPosition>
@@ -1181,7 +1236,12 @@
 				<pageTitle>Liberate Web Analytics - Analytics - Piwik</pageTitle>
 				<pageIdAction>35</pageIdAction>
 				
+				
 				<pageId>55</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<timeSpent>2</timeSpent>
 				<timeSpentPretty>2s</timeSpentPretty>
 				<generationTimeMilliseconds>182</generationTimeMilliseconds>
@@ -1202,7 +1262,12 @@
 				<pageTitle>Download - Analytics - Piwik</pageTitle>
 				<pageIdAction>39</pageIdAction>
 				
+				
 				<pageId>57</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<timeSpent>7</timeSpent>
 				<timeSpentPretty>7s</timeSpentPretty>
 				<generationTimeMilliseconds>113</generationTimeMilliseconds>
@@ -1223,7 +1288,12 @@
 				<pageTitle />
 				<pageIdAction>40</pageIdAction>
 				
+				
 				<pageId>58</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<interactionPosition />
 				<icon>plugins/Morpheus/images/download.png</icon>
 				
@@ -1341,7 +1411,12 @@
 				<pageTitle>Hello Installing Piwik - Analytics - Piwik</pageTitle>
 				<pageIdAction>37</pageIdAction>
 				
+				
 				<pageId>56</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<generationTimeMilliseconds>134</generationTimeMilliseconds>
 				<generationTime>0.13s</generationTime>
 				<interactionPosition>1</interactionPosition>
@@ -1469,7 +1544,12 @@
 				<pageTitle>Liberate Web Analytics - Analytics - Piwik</pageTitle>
 				<pageIdAction>35</pageIdAction>
 				
+				
 				<pageId>54</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<generationTimeMilliseconds>58</generationTimeMilliseconds>
 				<generationTime>0.06s</generationTime>
 				<interactionPosition>1</interactionPosition>
@@ -1597,7 +1677,12 @@
 				<pageTitle>incredible title!</pageTitle>
 				<pageIdAction>29</pageIdAction>
 				
+				
 				<pageId>50</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<interactionPosition>1</interactionPosition>
 				<icon />
 				
@@ -1723,7 +1808,12 @@
 				<pageTitle>Piwik Forums</pageTitle>
 				<pageIdAction>31</pageIdAction>
 				
+				
 				<pageId>51</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<interactionPosition>1</interactionPosition>
 				<icon />
 				
@@ -1857,7 +1947,12 @@
 				<pageTitle>Looking at Electronics &amp; Cameras page with a page level custom variable</pageTitle>
 				<pageIdAction>29</pageIdAction>
 				
+				
 				<pageId>33</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<timeSpent>0</timeSpent>
 				<timeSpentPretty>0s</timeSpentPretty>
 				<interactionPosition>1</interactionPosition>
@@ -1876,7 +1971,12 @@
 				<pageTitle>Another Product page with no category</pageTitle>
 				<pageIdAction>29</pageIdAction>
 				
+				
 				<pageId>52</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<timeSpent>0</timeSpent>
 				<timeSpentPretty>0s</timeSpentPretty>
 				<interactionPosition>2</interactionPosition>
@@ -1899,7 +1999,12 @@
 				<pageTitle>Looking at Electronics &amp; Cameras page with a page level custom variable</pageTitle>
 				<pageIdAction>29</pageIdAction>
 				
+				
 				<pageId>53</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<interactionPosition>3</interactionPosition>
 				<icon />
 				

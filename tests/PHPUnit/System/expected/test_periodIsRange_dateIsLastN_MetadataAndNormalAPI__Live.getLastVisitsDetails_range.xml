@@ -12,7 +12,12 @@
 				<pageTitle />
 				<pageIdAction>6</pageIdAction>
 				
+				
 				<pageId>5</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<interactionPosition />
 				<icon>plugins/Morpheus/images/link.png</icon>
 				
@@ -139,7 +144,12 @@
 				<pageTitle>Homepage</pageTitle>
 				<pageIdAction>2</pageIdAction>
 				
+				
 				<pageId>4</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<interactionPosition>1</interactionPosition>
 				<icon />
 				
@@ -266,7 +276,12 @@
 				<pageTitle>Homepage</pageTitle>
 				<pageIdAction>2</pageIdAction>
 				
+				
 				<pageId>1</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<timeSpent>360</timeSpent>
 				<timeSpentPretty>6 min 0s</timeSpentPretty>
 				<interactionPosition>1</interactionPosition>
@@ -290,7 +305,12 @@
 				<pageTitle>Profile page</pageTitle>
 				<pageIdAction>4</pageIdAction>
 				
+				
 				<pageId>2</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<timeSpent>0</timeSpent>
 				<timeSpentPretty>0s</timeSpentPretty>
 				<interactionPosition>2</interactionPosition>
@@ -313,7 +333,12 @@
 				<pageTitle>Profile page for user *_)%</pageTitle>
 				<pageIdAction>4</pageIdAction>
 				
+				
 				<pageId>3</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<interactionPosition>3</interactionPosition>
 				<icon />
 				

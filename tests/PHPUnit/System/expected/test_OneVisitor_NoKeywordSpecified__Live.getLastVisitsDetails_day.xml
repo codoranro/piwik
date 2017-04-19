@@ -12,7 +12,12 @@
 				<pageTitle />
 				<pageIdAction>2</pageIdAction>
 				
+				
 				<pageId>2</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<interactionPosition>1</interactionPosition>
 				<icon />
 				
@@ -120,7 +125,12 @@
 				<pageTitle>incredible title! (Page URL contains a HTML entity)</pageTitle>
 				<pageIdAction>2</pageIdAction>
 				
+				
 				<pageId>1</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<timeSpent>1084</timeSpent>
 				<timeSpentPretty>18 min 4s</timeSpentPretty>
 				<interactionPosition>1</interactionPosition>

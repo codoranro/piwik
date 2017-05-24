@@ -148,7 +148,7 @@ You can also pass any argument to the command and they will be forwarded to the 
         if(!SettingsPiwik::isGitDeployment()) {
             return 'WARN: it does not look like a Piwik repository clone - you must setup Piwik from git to proceed';
         }
-        $gitCmd = 'git -C ' . escapeshellarg(PIWIK_INCLUDE_PATH) . ' rev-parse HEAD';
+        $gitCmd = 'git rev-parse HEAD';
         return trim(shell_exec($gitCmd));
     }
 
